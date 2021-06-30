@@ -16,7 +16,7 @@ export class AppComponent implements OnInit {
   user = {
     image: "../assets/img/andrey_img.jpeg",
     username: "Andrey Marin",
-    description: "Fullstack developer y entrenador de ellos 👨‍💻 🐼 visita todos mis links oficiales 🥔",
+    description: "Fullstack developer y entrenador de ellos 👨‍💻 🐼 visita todos mis links oficiales 🌎",
     links: [
       {
         link: "https://github.com/andreycattalin/",
